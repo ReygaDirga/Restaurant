@@ -2,8 +2,7 @@ package restaurant;
 
 import java.util.*;
 
-import people.Chef;
-import people.Visitor;
+import people.*;
 
 public class Restaurant {
     private String name;

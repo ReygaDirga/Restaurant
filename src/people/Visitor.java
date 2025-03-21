@@ -1,7 +1,6 @@
 package people;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Visitor {
     String name;

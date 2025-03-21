@@ -9,6 +9,7 @@ import restaurant.Food;
 public class Main {
 
 	public static void main(String[] args) {	
+		// Create a new Restaurant
 		Restaurant restaurant = new Restaurant("Rumah Sambal");
 		
 		Chef chef1 = new Chef("Bintang");
